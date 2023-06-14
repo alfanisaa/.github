@@ -1,2 +1,3 @@
-# .github
-Readme
+## EduWaste
+Capstone Product Based
+PC42...
